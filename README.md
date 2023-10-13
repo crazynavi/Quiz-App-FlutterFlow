@@ -70,7 +70,3 @@ firebase deploy
 ```
 
 
-Created by **Ruslan Volkhov**
-
-[Extrawest.com](https://www.extrawest.com), 2023
-
